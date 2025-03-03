@@ -21,4 +21,9 @@ Power BI Dashboard included!
 2. Run the SQL queries.
 3. Open `pbix` file in Power BI for insights.
 
+## 📊 Power BI Dashboard Preview  
+Here’s a sneak peek of the interactive dashboard analyzing social media sentiments:  
+
+![Power BI Dashboard](https://github.com/VikCoderR/Social-Media-Sentiment-Analysis/blob/main/dashboard_preview.png.PNG)
+
 **Author:** [Vikas sharma]
